@@ -1,28 +1,28 @@
+## Aprenda
+
+* Tutoriais
+
 # Componentes
 
 ## Configuração
-
-## Injeção de Dependências
-
-## Pacotes Obsoletos
 
 ## Filtragem e Validação
 
 ## HTTP e URI
 
+## Injeção de Dependências
+
 ## Internacionalização
 
 ## JSON
-
-## Aprenda
-
-* Tutoriais
 
 ## Mail e mensagens MIME
 
 ## Middleware
 
 ## Navegação e Paginação
+
+## Pacotes Obsoletos
 
 ## Permissões
 
